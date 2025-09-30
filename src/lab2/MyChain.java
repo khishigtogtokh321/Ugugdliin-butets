@@ -4,6 +4,7 @@ package lab2;
 import dataStructures.Chain;
 
 public class MyChain extends Chain {
+	
 	public Object[] toArray() {
 		Object array[] = new Object[size()];
 		for(int i = 0; i< size(); i++) {
