@@ -67,11 +67,11 @@ public class MyChain extends Chain {
 		myChain.add(1, 12);
 		myChain.add(2, 15);
 		
-		Object a[];
+		Object arrylist[];
 		
-		a = myChain.toArray();
-		for(int i = 0; i  < a.length; i++) {
-			System.out.println(" " + (int)a[i]);
+		arrylist = myChain.toArray();
+		for(int i = 0; i  < arrylist.length; i++) {
+			System.out.println(" " + (int)arrylist[i]);
 		}
 		
 		MyChain list1 = new MyChain();
