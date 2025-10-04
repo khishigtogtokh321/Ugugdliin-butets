@@ -1,6 +1,11 @@
 
 /.project
 /.settings/
+
+/.classpath
+
+/.myapp.jar
+
 # Java
 /bin/
 /target/
