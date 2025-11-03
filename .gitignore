@@ -1,0 +1,60 @@
+# ==========================
+# Eclipse IDE
+# ==========================
+.project
+.classpath
+.settings/
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+
+# ==========================
+# Java compiled files
+# ==========================
+*.class
+*.jar
+*.war
+*.ear
+
+# ==========================
+# Build folders (Maven/Gradle)
+# ==========================
+target/
+build/
+out/
+.gradle/
+.mvn/
+
+# ==========================
+# Logs and temporary files
+# ==========================
+*.log
+*.out
+*.err
+hs_err_pid*
+
+# ==========================
+# IDE-specific
+# ==========================
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code (хэрэв хэрэглэж байвал)
+.vscode/
+
+# ==========================
+# OS-specific
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# User-specific
+# ==========================
+*.prefs
+*.backup
+*.orig

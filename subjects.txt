@@ -1,0 +1,6 @@
+CS101/Programming Basics/3
+CS102/Data Structures/4
+CS103/Databases/3
+MA101/Calculus/4
+PH101/Physics/3
+EN101/English/2
